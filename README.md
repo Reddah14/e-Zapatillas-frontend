@@ -1,20 +1,25 @@
 # Introduction 
-This is an e-commerce with 2 user pfofiles (manager/final user). 
+This is an e-commerce with 2 user profiles (manager/final user). 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# e-Zapatillas (frontend)
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+A Quasar Framework app
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Install the dependencies
+```bash
+yarn
+```
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
