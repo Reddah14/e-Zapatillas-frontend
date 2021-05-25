@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "12",
+    "nombre": "Ciudad",
+    "descripcion": "Culpa consequat qui exercitation qui cillum ea cillum ea Lorem. Quis mollit elit nisi laborum irure officia velit sint magna minim. Dolore dolore amet nostrud nulla veniam. Excepteur incididunt qui et commodo. Proident amet ex laboris veniam.\r\n",
+    "Activo": true
+  },
+  {
+    "_id": "13",
+    "nombre": "Clasicas",
+    "descripcion": "Occaecat cillum esse ad dolore occaecat sit deserunt anim proident amet dolor nisi incididunt consequat. Occaecat ex laboris laboris est. Occaecat id Lorem aute excepteur. Sit aliquip minim Lorem aliquip voluptate. Deserunt sit irure non labore sunt.\r\n",
+    "Activo": true
+  },
+  {
+    "_id": "14",
+    "nombre": "Montaña",
+    "descripcion": "Aute quis non duis laborum. Magna laboris officia deserunt proident in ea dolore aliqua anim sit Lorem aute laboris. Incididunt magna mollit aliqua aliquip. Sint mollit ipsum quis consectetur sunt nostrud consectetur. Id ea culpa ea Lorem proident exercitation laborum in ad dolore sint proident sunt. Adipisicing Lorem fugiat reprehenderit esse proident non aute. Adipisicing in pariatur exercitation reprehenderit id non ipsum esse aliquip quis quis elit aliquip.\r\n",
+    "Activo": false
+  },
+  {
+    "_id": "15",
+    "nombre": "Acuaticas",
+    "descripcion": "Nisi sunt culpa sunt dolore veniam sunt nostrud nulla exercitation pariatur dolore excepteur laborum adipisicing. Minim elit ex labore Lorem ipsum fugiat est fugiat voluptate excepteur quis. Est non aute labore culpa labore minim aliqua ut sit sunt dolor sit irure. Adipisicing sit esse consequat laboris. In voluptate qui eiusmod dolor sit sit dolor tempor nisi ex irure. Lorem eu Lorem esse aute esse do consectetur minim voluptate non do ad amet tempor.\r\n",
+    "Activo": false
+  },
+  {
+    "_id": "16",
+    "nombre": "Deportivas",
+    "descripcion": "Nisi sunt culpa sunt dolore veniam sunt nostrud nulla exercitation pariatur dolore excepteur laborum adipisicing. Minim elit ex labore Lorem ipsum fugiat est fugiat voluptate excepteur quis. Est non aute labore culpa labore minim aliqua ut sit sunt dolor sit irure. Adipisicing sit esse consequat laboris. In voluptate qui eiusmod dolor sit sit dolor tempor nisi ex irure. Lorem eu Lorem esse aute esse do consectetur minim voluptate non do ad amet tempor.\r\n",
+    "Activo": true
+  },
+  {
+    "_id": "17",
+    "nombre": "Urban fashion",
+    "descripcion": "Nisi sunt culpa sunt dolore veniam sunt nostrud nulla exercitation pariatur dolore excepteur laborum adipisicing. Minim elit ex labore Lorem ipsum fugiat est fugiat voluptate excepteur quis. Est non aute labore culpa labore minim aliqua ut sit sunt dolor sit irure. Adipisicing sit esse consequat laboris. In voluptate qui eiusmod dolor sit sit dolor tempor nisi ex irure. Lorem eu Lorem esse aute esse do consectetur minim voluptate non do ad amet tempor.\r\n",
+    "Activo": true
+  }
+]

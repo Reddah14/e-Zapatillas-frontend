@@ -1,0 +1,19 @@
+.margin-button {
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.margin-input {
+    margin: 1%;    
+}
+.card-layout {
+    max-width: 40%;
+    max-height: 50%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 15%;  
+}
+.buttonsProduct {
+ margin: 2%;
+ text-align: center;
+ justify-content: space-evenly;
+}
